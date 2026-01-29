@@ -6738,10 +6738,10 @@ uri-js@^4.2.2:
   dependencies:
     punycode "^2.1.0"
 
-use-latest-callback@^0.1.9:
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/use-latest-callback/-/use-latest-callback-0.1.9.tgz#10191dc54257e65a8e52322127643a8940271e2a"
-  integrity sha512-CL/29uS74AwreI/f2oz2hLTW7ZqVeV5+gxFeGudzQrgkCytrHw33G4KbnQOrRlAEzzAFXi7dDLMC9zhWcVpzmw==
+use-latest-callback@^0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/use-latest-callback/-/use-latest-callback-0.3.3.tgz#62f3c2a949087605741624850e4be6429e8fe3f1"
+  integrity sha512-G9A/EL7okx4wzBfATt8bdGg0v1K0Gp0IClTzljffM63gtPisgDKCaLCLUb4g2M4CoXDg5yyHjOU+g3SUPbXwrA==
 
 use-sync-external-store@^1.0.0:
   version "1.2.0"

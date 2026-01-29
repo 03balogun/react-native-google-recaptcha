@@ -24,7 +24,7 @@
     "prepare:package": "cd ./dist && mkdir dist && mv *.js *.d.ts ./dist && cp ../package.json ."
   },
   "dependencies": {
-    "use-latest-callback": "^0.1.9"
+    "use-latest-callback": "^0.3.3"
   },
   "peerDependencies": {
     "@babel/runtime": "*",
