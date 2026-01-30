@@ -1,12 +1,12 @@
 {
-  "name": "react-native-google-recaptcha",
-  "version": "1.0.8",
+  "name": "@03balogun/react-native-google-recaptcha",
+  "version": "1.0.0",
   "description": "A reCAPTCHA library for React Native (Android and iOS).",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "license": "MIT",
-  "homepage": "https://github.com/bilaleren/react-native-google-recaptcha",
-  "repository": "https://github.com/bilaleren/react-native-google-recaptcha",
+  "homepage": "https://github.com/03balogun/react-native-google-recaptcha",
+  "repository": "https://github.com/03balogun/react-native-google-recaptcha",
   "keywords": [
     "recaptcha",
     "react native",
